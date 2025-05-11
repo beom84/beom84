@@ -1,9 +1,11 @@
 <!-- 헤더 -->
-![header](https://capsule-render.vercel.app/api?type=slice&color=fa8072&height=200&section=header&text=Hello&desc=I'm%20SeungBum&fontSize=60&fontColor=ffffff&rotate=14&fontAlignY=25&fontAlign=75&descAlignY=43&descAlign=80&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=SeungBeom%20Lee&fontSize=90)
+
 
 <div >
 
-### 👋 소개
+
+
 
 -  🔭 I'm currently studying at **Konkuk University**
 -  💻 Majoring in **Computer Science and Engineering**
